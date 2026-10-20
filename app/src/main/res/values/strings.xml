@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Smart Pantry Manager</string>
+    <string name="enter_first_ingredient">Enter first ingredient</string>
+    <string name="enter_second_ingredient">Enter second ingredient</string>
+    <string name="enter_third_ingredient">Enter third ingredient</string>
+    <string name="button_text">Button</string>
+</resources>
